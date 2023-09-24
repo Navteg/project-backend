@@ -6,8 +6,8 @@ const DB_CONFIG = {
   connection: {
     host: "localhost", // use your local ip address here
     user: "postgres", // use your username here
-    password: "password", // use your password here
-    database: "knex-test" // use your database name here
+    password: "", // use your password here
+    database: "" // use your database name here
   }
 };
 
