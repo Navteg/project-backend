@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Project 1",
+    "description": "Python, HTML, CSS, Machine Learning, Deep Learning",
+    "frontend": "HTML, CSS, JavaScript",
+    "backend": "Python",
+    "database": "",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 2",
+    "description": "Java Spring Boot, Hibernate, MySQL",
+    "frontend": "React JS",
+    "backend": "Java, Spring Boot, Hibernate",
+    "database": "MySQL",
+    "infrastructure": "Not specified"
+  },
+  {
+    "title": "Project 3 ",
+    "description": "Java, HTML, CSS, JavaScript",
+    "frontend": "React, HTML, CSS",
+    "backend": "Java, Python Django, Flask",
+    "database": "MySQL, MongoDB, Postgres",
+    "infrastructure": "AWS, Azure OCR, Apache, Docker"
+  },
+  {
+    "title": "Project 4",
+    "description": "Websockets, Redis, Channel layers",
+    "frontend": "React",
+    "backend": "Python Django, Django Rest",
+    "database": "MySQL",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 5",
+    "description": "Python, Scrapy framework, MongoDB",
+    "frontend": "React Native",
+    "backend": "Python, Django",
+    "database": "MongoDB",
+    "infrastructure": "Not Specified"
+  },
+  {
+    "title": "Project 6",
+    "description": "Postman, Docker, Jenkins, Java, Spring Boot",
+    "frontend": "React, Angular",
+    "backend": "Spring Boot, Java",
+    "database": "",
+    "infrastructure": "Postman, Docker, Jenkins"
+  },
+  {
+    "title": "Project 7",
+    "description": "React JS, JWT Authentication, Local Storage",
+    "frontend": "React JS, HTML, CSS, JavaScript",
+    "backend": "Node JS",
+    "database": "MongoDB",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 8",
+    "description": "Python, Django, API",
+    "frontend": "No experience",
+    "backend": "Python Django, API",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 9",
+    "description": "React, Node, Java",
+    "frontend": "React, Java, Angular, Node, JavaScript",
+    "backend": "Node",
+    "database": "SQL",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 10",
+    "description": "React JS, Redux, HTML, CSS, Bootstrap, Material UI, Socket.io, Python Django",
+    "frontend": "React JS, HTML, CSS, Bootstrap, Material UI",
+    "backend": "Python Django",
+    "database": "",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 11",
+    "description": "React JS, Node JS, TNT database",
+    "frontend": "HTML, CSS, JavaScript, React JS",
+    "backend": "Node JS",
+    "database": "SQL, TNT",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 12",
+    "description": "React JS, Mongo DB, MVC architecture",
+    "frontend": "React JS",
+    "backend": "Mongo DB",
+    "database": "Mongo DB",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 13",
+    "description": "Python, Java, Redis, caching, pagination, liquibase",
+    "frontend": "React, Next js",
+    "backend": "Python Django and Spring frameworks",
+    "database": "Not Specified",
+    "infrastructure": "Not Specified"
+  },
+  {
+    "title": "Project 14",
+    "description": "Python, AWS, JavaScript, Node JS, Docker",
+    "frontend": "Angular, JavaScript, TypeScript",
+    "backend": "Python, Java, Node JS, AWS Lambda functions",
+    "database": "SQL",
+    "infrastructure": "Docker, AWS"
+  },
+  {
+    "title": "Project 15",
+    "description": "Java, Spring Framework",
+    "frontend": "React",
+    "backend": "Python, Django, Java, Spring Framework",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 16",
+    "description": "SQL, Cloud, Ecommerce, Haru, Spoke",
+    "frontend": "React, Angular, Next.js",
+    "backend": "SQL, MySQL, Oracle, Java, NoSQL",
+    "database": "SQL, MySQL, Oracle, NoSQL",
+    "infrastructure": "Cloud platforms"
+  },
+  {
+    "title": "Project 17",
+    "description": "HTML, CSS, Node.js, SQL, MongoDB",
+    "frontend": "HTML, CSS, React",
+    "backend": "Node.js",
+    "database": "SQL, MongoDB",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 18",
+    "description": "Java, Spring Boot, Angular, HTML, CSS, JavaScript, SQL",
+    "frontend": "Angular, React, Next js",
+    "backend": "Python Django, Spring",
+    "database": "SQL",
+    "infrastructure": "HTTPD"
+  },
+  {
+    "title": "Project 19",
+    "description": "Machine learning, Linear and Logistic Regression",
+    "frontend": "React, Angular",
+    "backend": "Python Django, Java Spring",
+    "database": "",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 20",
+    "description": "AWS, Node JS, Aurora DB, React, Python, TypeScript, JavaScript, CICD pipelines, ECS containers and topics",
+    "frontend": "React",
+    "backend": "Python, Node.js",
+    "database": "Aurora DB",
+    "infrastructure": "AWS, ECS containers"
+  },
+  {
+    "title": "Project 21",
+    "description": "Django, Elasticview",
+    "frontend": "React",
+    "backend": "Django",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 22",
+    "description": "Third Party APIs, Encryption and Decryption Algorithms",
+    "frontend": "Angular, React, Next.js",
+    "backend": "Node.js, Express",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 23",
+    "description": "Java, React/TypeScript",
+    "frontend": "React, Next JS, Google Auth",
+    "backend": "Java Spring Framework",
+    "database": "Not Specified",
+    "infrastructure": "Not Specified"
+  },
+  {
+    "title": "Project 24",
+    "description": "Java, Python, SQL, MongoDB, Mongoose, Passport, React and Express",
+    "frontend": "React JS (Beginner level, Self-rated 7/10)",
+    "backend": "Java, Python, SQL (Self-rated 7/10)",
+    "database": "MongoDB, SQL",
+    "infrastructure": "No information provided"
+  },
+  {
+    "title": "Project 25",
+    "description": "API, Event-based system",
+    "frontend": "Reactjs",
+    "backend": "Node JS, TypeScript, JavaScript",
+    "database": "Postgre SQL",
+    "infrastructure": "Flutter"
+  },
+  {
+    "title": "Project 26",
+    "description": "React, React Native",
+    "frontend": "React, React Native",
+    "backend": "Not experienced, but a quick learner",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 27",
+    "description": "Fitbit API, Isolation Forest Algorithm, Email Service",
+    "frontend": "React",
+    "backend": "Express, JavaScript",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 28",
+    "description": "Node JS, Puppeteer",
+    "frontend": "JavaScript, React, Angular",
+    "backend": "Node JS, Express, Python, Django",
+    "database": "",
+    "infrastructure": "AWS"
+  },
+  {
+    "title": "Project 29",
+    "description": "Java, PostgreSQL",
+    "frontend": "React",
+    "backend": "Java",
+    "database": "PostgreSQL",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 30",
+    "description": "React JS, Node JS, Express JS, MongoDB",
+    "frontend": "HTML, CSS, JavaScript, jQuery",
+    "backend": "PHP Codeigniter, Django",
+    "database": "MongoDB",
+    "infrastructure": "Not specified"
+  },
+  {
+    "title": "Project 31",
+    "description": "Python Django, Flask, Spring Boot",
+    "frontend": "ReactJS",
+    "backend": "Python Django, Flask, Spring Boot",
+    "database": "",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 32",
+    "description": "Node JS, JavaScript",
+    "frontend": "Angular, React, Next js",
+    "backend": "Node.js, Python Django",
+    "database": "Postman",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 33",
+    "description": "Machine Learning, Random Forest, Extra Trees Regressor, Light Gradient Boosting",
+    "frontend": "React JS",
+    "backend": "Node JS, Express JS",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 34",
+    "description": "CA framework, Python APIs, React",
+    "frontend": "React",
+    "backend": "Python, Node.js",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 35",
+    "description": "Node JS, TypeScript, MongoDB",
+    "frontend": "Not Specified",
+    "backend": "Node JS",
+    "database": "MongoDB",
+    "infrastructure": "Not Specified"
+  },
+  {
+    "title": "Project 36",
+    "description": "Java, Retrofit, MVC pattern",
+    "frontend": "React Native",
+    "backend": "Java",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 37",
+    "description": "Multicast graded CNN model, Hybrid recommender system",
+    "frontend": "Not mentioned",
+    "backend": "Back-end frameworks and APIs",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 38",
+    "description": "Java, JavaScript, Android app development, Firebase, Node.js, MongoDB, Postman",
+    "frontend": "React, HTML, CSS",
+    "backend": "Node.js",
+    "database": "MongoDB, Firebase",
+    "infrastructure": "Firebase"
+  },
+  {
+    "title": "Project 39",
+    "description": "React JS, Node JS, HTML, CSS, JavaScript, EJS",
+    "frontend": "React JS, HTML, CSS, JavaScript, EJS",
+    "backend": "Node JS",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 40",
+    "description": "Javascript, SQL, Report Labs, React, Python Django, Java, Spring Boot, MySQL",
+    "frontend": "React, HTML, CSS, JavaScript",
+    "backend": "Python Django, Java, Spring Boot",
+    "database": "MySQL, Sequel Lite",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 41",
+    "description": "DuckDuckGo API, React Native, TypeScript",
+    "frontend": "React Native",
+    "backend": "Prayat",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 42",
+    "description": "HTML, CSS, JavaScript, Tableau, Power BI, SQL, frontend++",
+    "frontend": "HTML, CSS, JavaScript, React JS",
+    "backend": "None mentioned",
+    "database": "SQL",
+    "infrastructure": "None mentioned"
+  },
+  {
+    "title": "Project 43",
+    "description": "Decentralized anomaly detection system, machine learning, attention mechanism",
+    "frontend": "Angular, React, Next js",
+    "backend": "Java, Spring Boot, JavaScript API",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 44",
+    "description": "Azure APIs and SAS fulfillment APIs",
+    "frontend": "",
+    "backend": "Azure APIs and SAS fulfillment APIs",
+    "database": "SQL and NoSQL",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 45",
+    "description": "Java, AWS DynamoDB",
+    "frontend": "Learning React.js",
+    "backend": "Java",
+    "database": "AWS DynamoDB",
+    "infrastructure": "AWS"
+  },
+  {
+    "title": "Project 46",
+    "description": "HTML, CSS, JavaScript, React JS, Python Django, Express",
+    "frontend": "HTML, CSS, JavaScript, React JS",
+    "backend": "Python Django, Express",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 47",
+    "description": "PHP, JavaScript, jQuery, HTML, CSS, Bootstrap, MySQL, Node JS, Express JS, MongoDB",
+    "frontend": "Bootstrap, JavaScript, jQuery",
+    "backend": "PHP, Node.js, Express.js",
+    "database": "MySQL, MongoDB",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 48",
+    "description": "Python, Django, HTML, CSS, JavaScript",
+    "frontend": "Angular, React, Next js",
+    "backend": "Python Django, ASP.NET",
+    "database": "",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 49",
+    "description": "KN algorithm, Flutter, Dart, Firebase",
+    "frontend": "React",
+    "backend": "Node.js",
+    "database": "",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 50",
+    "description": "React, Node.js, API development",
+    "frontend": "React",
+    "backend": "Node.js",
+    "database": "MongoDB",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 51",
+    "description": "Machine Learning, Smart Analysis",
+    "frontend": "Not Specified",
+    "backend": "Django",
+    "database": "Not Specified",
+    "infrastructure": "Not Specified"
+  },
+  {
+    "title": "Project 52",
+    "description": "React, Django",
+    "frontend": "React",
+    "backend": "Django",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 53",
+    "description": "Angular, React, Next js, Python Django, Express JS",
+    "frontend": "Angular, React, Next js",
+    "backend": "Python Django, Express JS",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 54",
+    "description": "MongoDB, Express JS, Node JS, Java",
+    "frontend": "Angular, React, Next js",
+    "backend": "Python Django, Node.js",
+    "database": "MongoDB",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 55",
+    "description": "Solidity",
+    "frontend": "React.js",
+    "backend": "Node.js",
+    "database": "MongoDB",
+    "infrastructure": "Not provided"
+  },
+  {
+    "title": "Project 56",
+    "description": "NLTK library, Text BLOB and SVC",
+    "frontend": "Not Mentioned",
+    "backend": "Python",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 57",
+    "description": "React Jsonschema, Material React Table, Promises, Batch Functions",
+    "frontend": "React, CJS, Redux, HTML, CSS",
+    "backend": "Python",
+    "database": "Unknown",
+    "infrastructure": "Messenger, Python, and machine learning"
+  },
+  {
+    "title": "Project 58",
+    "description": "TypeScript, Node.js",
+    "frontend": "Angular",
+    "backend": "Node.js",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 59",
+    "description": "React, Angular, Next.js, Python, Django, Flask, MongoDB, MySQL",
+    "frontend": "React, Angular, Next.js",
+    "backend": "Python, Django, Flask",
+    "database": "MongoDB, MySQL",
+    "infrastructure": "Not Provided"
+  },
+  {
+    "title": "Project 60",
+    "description": "React, Python, SQL, Java, frontend",
+    "frontend": "React",
+    "backend": "Python Flask",
+    "database": "SQL",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 61",
+    "description": "HTML, Form groups, S3 bucket",
+    "frontend": "Angular, React, Next.js",
+    "backend": "Spring Boot, Django",
+    "database": "MySQL",
+    "infrastructure": "Engine X"
+  },
+  {
+    "title": "Project 62",
+    "description": "Python, Django, Django Rest Framework",
+    "frontend": "No information provided",
+    "backend": "Python, Django, Django Rest Framework",
+    "database": "No information provided",
+    "infrastructure": "No information provided"
+  },
+  {
+    "title": "Project 63",
+    "description": "Lambda, AWS, API gateway, React",
+    "frontend": "React, Redux",
+    "backend": "Node.js, Python Django",
+    "database": "Not mentioned",
+    "infrastructure": "AWS"
+  },
+  {
+    "title": "Project 64",
+    "description": "Django, React, Alpha Vantage API",
+    "frontend": "React",
+    "backend": "Python Django",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 65",
+    "description": "JavaScript, HTML, CSS, Google Fonts, React Icon, Responsiveness",
+    "frontend": "React, TypeScript",
+    "backend": "Node, Express",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 66",
+    "description": "Digital Marketing",
+    "frontend": "React, Angular",
+    "backend": "Node",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 67",
+    "description": "React, Next JS, Node JS, Express, SQLite, MongoDB, Prisma",
+    "frontend": "React, Next JS",
+    "backend": "Node JS, Express",
+    "database": "SQLite, MongoDB, Prisma",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 68",
+    "description": "Micro service architecture, Spring MVC, Spring Cloud",
+    "frontend": "Interest in learning",
+    "backend": "Java, Spring and Spring boot framework, REST APIs, micro services architecture",
+    "database": "Hadoop ecosystem",
+    "infrastructure": "Micro services architecture"
+  },
+  {
+    "title": "Project 69",
+    "description": "TypeScript, FCM token, Socket IO, Google Descriptive APIs, Natural Language Processing",
+    "frontend": "Not specified",
+    "backend": "Python",
+    "database": "Not specified",
+    "infrastructure": "Not specified"
+  },
+  {
+    "title": "Project 70",
+    "description": "Python, AI, ML",
+    "frontend": "React JS",
+    "backend": "Django, Python",
+    "database": "Not specified",
+    "infrastructure": "Not specified"
+  },
+  {
+    "title": "Project 71",
+    "description": "Node JS, Express JS, MySQL, AWS, GitLab, Sonar, Swagger APIs",
+    "frontend": "React",
+    "backend": "Node.js, Express.js",
+    "database": "MongoDB, MySQL",
+    "infrastructure": "AWS"
+  },
+  {
+    "title": "Project 72",
+    "description": "React JS, Akka microservices, Postgres, MongoDB, Sequel",
+    "frontend": "Angular JS, React",
+    "backend": "Scala, Akka, Play framework",
+    "database": "Postgres, MongoDB",
+    "infrastructure": "Not specified"
+  },
+  {
+    "title": "Project 73",
+    "description": "Amazon SQS, Kafka",
+    "frontend": "Angular, React, Next js",
+    "backend": "Python Django",
+    "database": "Unspecified",
+    "infrastructure": "Docker"
+  },
+  {
+    "title": "Project 74",
+    "description": "Postman, JUnit, threads, Jenkins, Docker",
+    "frontend": "Angular, React, Next js",
+    "backend": "Python Django, Spring Boot",
+    "database": "",
+    "infrastructure": "Docker, Jenkins"
+  },
+  {
+    "title": "Project 75",
+    "description": "Cron job",
+    "frontend": "React",
+    "backend": "Not specified",
+    "database": "Not specified",
+    "infrastructure": "Not specified"
+  },
+  {
+    "title": "Project 76",
+    "description": "JavaScript",
+    "frontend": "JavaScript, React",
+    "backend": "JavaScript",
+    "database": "Not Discussed",
+    "infrastructure": "Not Discussed"
+  },
+  {
+    "title": "Project 77",
+    "description": "Django, Front-end and Back-end development",
+    "frontend": "Basic knowledge",
+    "backend": "Basic knowledge",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 78",
+    "description": "ASP.NET, CSS, HTML, SQL Server",
+    "frontend": "CSS, HTML, JavaScript, Ajax, Bootstrap",
+    "backend": "ASP.NET MVC",
+    "database": "SQL Server",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 79",
+    "description": "Java, WS, AWS, Lambda Functions, Cloud Watch, MongoDB, Express, React, Node JS",
+    "frontend": "ReactJS",
+    "backend": "NodeJS, ExpressJS",
+    "database": "MongoDB",
+    "infrastructure": "AWS"
+  },
+  {
+    "title": "Project 80",
+    "description": "EF Core API, Angular, Azure",
+    "frontend": "Angular JS",
+    "backend": ".Net, SQL",
+    "database": "SQL",
+    "infrastructure": "Azure"
+  },
+  {
+    "title": "Project 81",
+    "description": "Machine learning, Linear regression",
+    "frontend": "Undetermined",
+    "backend": "Python, FAST API",
+    "database": "Undetermined",
+    "infrastructure": "PyCharm"
+  },
+  {
+    "title": "Project 82",
+    "description": "JavaScript, External Libraries",
+    "frontend": "Angular, React, Next js",
+    "backend": "Python",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 83",
+    "description": "Machine Learning, Cosine Similarity",
+    "frontend": "React, HTML, CSS, JavaScript",
+    "backend": "",
+    "database": "",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 84",
+    "description": "React, Node, Express, MongoDB, PostgreSQL, Django, Python",
+    "frontend": "React",
+    "backend": "Node, Express, Django, Python",
+    "database": "MongoDB, PostgreSQL",
+    "infrastructure": ""
+  },
+  {
+    "title": "Project 85",
+    "description": "MongoDB, Angular, JavaScript, CSS, HTML, Python",
+    "frontend": "Angular, React, Next.js",
+    "backend": "Python Django, Fast APIs, Notes",
+    "database": "MongoDB",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 86",
+    "description": "frontend++, Java, AWS, Spring Framework, J Unit, Machine Learning, Linux, AOP",
+    "frontend": "JavaScript, React JS, HTML, CSS",
+    "backend": "Node JS, Java, AWS, Spring Framework",
+    "database": "Not mentioned",
+    "infrastructure": "AWS"
+  },
+  {
+    "title": "Project 87",
+    "description": "Open AI, Machine Learning Models, Python Libraries for Audio Conversion and Prompt Engineering",
+    "frontend": "4-5/10",
+    "backend": "Python Django, 7-8/10",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 88",
+    "description": "Java, AWS Lambda",
+    "frontend": "React",
+    "backend": "Node.js, Express.js",
+    "database": "MongoDB",
+    "infrastructure": "AWS"
+  },
+  {
+    "title": "Project 89",
+    "description": "MongoDB, Node JS, JavaScript, JWT, React Native",
+    "frontend": "Reactjs, React Native",
+    "backend": "Node.js, Express",
+    "database": "MongoDB, PostgreSQL",
+    "infrastructure": "Knowledge not specified"
+  },
+  {
+    "title": "Project 90",
+    "description": "Pega, Python Node JS, Theme Cosmos",
+    "frontend": "Python Node JS",
+    "backend": "No prior experience with backend frameworks",
+    "database": "Not mentioned",
+    "infrastructure": "Not mentioned"
+  },
+  {
+    "title": "Project 91",
+    "description": "React, Next.js, Python Django, Node.js, Express.js",
+    "frontend": "React, Next.js",
+    "backend": "Python Django, Node.js, Express.js",
+    "database": "Unknown",
+    "infrastructure": "Unknown"
+  },
+  {
+    "title": "Project 92",
+    "description": "Machine Learning, Front-end and Backend Frameworks, AWS",
+    "frontend": "Unknown",
+    "backend": "Unknown",
+    "database": "Unknown",
+    "infrastructure": "AWS"
+  },
+  {
+    "title": "Project 93",
+    "description": "JavaScript, HTML, CSS, Bootstrap, Express JS, Node JS",
+    "frontend": "React, Redux, HTML, JavaScript, CSS, Bootstrap",
+    "backend": "Express JS, Node JS",
+    "database": "MongoDB",
+    "infrastructure": "Not provided"
+  },
+  {
+    "title": "Project 94",
+    "description": "CSS, HTML, CSS, JavaScript, Python, MySQL",
+    "frontend": "Angular, React, Next js",
+    "backend": "No Experience",
+    "database": "MySQL",
+    "infrastructure": "No Experience"
+  },
+  {
+    "title": "Project 95",
+    "description": "React JS, Redux, React Hooks",
+    "frontend": "HTML, CSS, JavaScript, React JS",
+    "backend": "Node JS, frontend&frontend",
+    "database": "Not provided",
+    "infrastructure": "Not provided"
+  },
+  {
+    "title": "Project 96",
+    "description": "React JS, Node.js",
+    "frontend": "React JS",
+    "backend": "Node.js (Learning)",
+    "database": "Not Mentioned",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 97",
+    "description": "Mongoose, React JS, Node JS",
+    "frontend": "React JS",
+    "backend": "Node JS",
+    "database": "Mongoose",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 98",
+    "description": "Open pose, MRCP CNN, Pandas, scikit learn, Python",
+    "frontend": "HTML, JavaScript, jQuery, CSS",
+    "backend": "Python, Django",
+    "database": "MySQL, MSSQL",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 99",
+    "description": "React.js, Redux, Schema UI, Config one UI, Live Swiggy API, Conflict one UI",
+    "frontend": "React.js",
+    "backend": "Willing to learn",
+    "database": "Good understanding of data structures and algorithms",
+    "infrastructure": "Not Mentioned"
+  },
+  {
+    "title": "Project 100",
+    "description": "Front-end and Back-end frameworks",
+    "frontend": "7.5/10",
+    "backend": "08-Oct",
+    "database": "Not Mentioned",
+    "infrastructure": "Azure DevOps"
+  }
+ ]
